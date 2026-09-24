@@ -1,8 +1,5 @@
 # Guilherme Marques Roseiro Souza
 
-**Systems Development | ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
-
-
  <a href="https://github.com/guigabyte0?tab=repositories" style="text-decoration: none;">
     <img
       alt="Repositories"
@@ -33,7 +30,6 @@
 
 ## About me:
 
-- In the first year of the Systems Development technical course.
 - English: Fluent
 
 ---
