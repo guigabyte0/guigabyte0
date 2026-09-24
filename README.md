@@ -1,4 +1,4 @@
-# Guigabyte
+# guigabyte
 
  <a href="https://github.com/guigabyte0?tab=repositories">
     <img id="repositories" src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
