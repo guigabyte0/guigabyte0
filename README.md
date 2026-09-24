@@ -30,6 +30,7 @@
 
 ## About me:
 
-- English: Fluent
+- Interested in Game Development and coding projects in general.
+- English: Fluent (C2 Level)
 
 ---
