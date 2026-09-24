@@ -5,11 +5,7 @@
      alt="Repositories"
     />
   </a>
-
-  #repositories {
-  height: 23px
-  }
-
+  
 ---
 
 
