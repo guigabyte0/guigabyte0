@@ -38,3 +38,4 @@
 <br><a href="https://mars0aces.itch.io/countdown-to-live"> 
 <img src="https://img.itch.zone/aW1nLzI4ODE2MTc2LnBuZw==/347x500/wC0%2BQI.png" alt="Countdown to Live">
 </a>
+Made with a group of 3 people for the GMTK Game Jam 2026
