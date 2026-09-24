@@ -26,7 +26,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=Godot&logoColor=white)
+![Godot](https://img.shields.io/badge/godotengine-478CBF?style=flat-square&logo=Godot&logoColor=white)
 
 ---
 
