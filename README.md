@@ -1,13 +1,14 @@
 # Guilherme Marques Roseiro Souza
 
- <a href="https://github.com/guigabyte0?tab=repositories" style="text-decoration: none;">
-    <img
-      alt="Repositories"
-      title="See my repositories on GitHub"
-      src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
-      style="height: 23px;"
+ <a href="https://github.com/guigabyte0?tab=repositories">
+    <img id="repositories" src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
+     alt="Repositories"
     />
   </a>
+
+  #repositories {
+  height: 23px
+  }
 
 ---
 
@@ -34,3 +35,7 @@
 - English: Fluent (C2 Level)
 
 ---
+
+## Finished Projects
+
+<a href="https://mars0aces.itch.io/countdown-to-live"></a>
