@@ -34,6 +34,7 @@
 
 ## Finished Projects
 
-<a href="https://mars0aces.itch.io/countdown-to-live">
- <img src="https://img.itch.zone/aW1nLzI4ODE2MTc2LnBuZw==/347x500/wC0%2BQI.png" alt="Countdown to Live"
-Countdown to Live / Gods of Demiterra </a>
+<a href="https://mars0aces.itch.io/countdown-to-live"> 
+<img src="https://img.itch.zone/aW1nLzI4ODE2MTc2LnBuZw==/347x500/wC0%2BQI.png" alt="Countdown to Live">
+Countdown to Live / Gods of Demiterra
+</a>
